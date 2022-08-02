@@ -31,3 +31,5 @@ def newton(f, df, p0, tol):
 Since the regression model isn't easily differentiable, I used a modified method that generates similar results without `df`, the derivative of the function. Putting it all together, running (modified) Newton's method with a shift to account for the next checkpoint gives us an accurate prediction of the time to reach the next checkpoint.
 
 Interested in learning more and checking out the fund tracker for yourself? You can find the fund tracker [here](https://fund-vis-v2.herokuapp.com).
+
+## Tanki Star Calculator Algorithm
