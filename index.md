@@ -4,9 +4,9 @@ Welcome and thank you for reading those lines! In this website you will be able 
 
 ## Summary
 
-[Tanki Fund Tracker](https://sabry134.github.io/TO-Utilities/#tanki-fund-tracker)
+- [Tanki Fund Tracker](https://sabry134.github.io/TO-Utilities/#tanki-fund-tracker)
 
-[Tanki Star Calculator](https://sabry134.github.io/TO-Utilities/#tanki-star-calculator-algorithm)
+- [Tanki Star Calculator](https://sabry134.github.io/TO-Utilities/#tanki-star-calculator-algorithm)
 
 ## Tanki Fund Tracker
 
@@ -47,6 +47,10 @@ Interested in learning more and checking out the fund tracker for yourself? You 
 ## Tanki Star Calculator Algorithm
 
 ### What is a Challenge Star Calculator?
+
+`Usage: ./{Exec} [Number of stars] [Number of days elapsed]`
+
+You won't need to pay attention to the executable, in other word, for the website in which you'll use the program, you'll only need to write the arguments.
 
 A challenge star calculator is a program which allows you to calculate the number of remaining stars you should get within the remaining days, along with an idea of the number of stars per day to earn. It is a C program which was built.
 
