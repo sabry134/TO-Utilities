@@ -4,7 +4,7 @@ Welcome and thank you for reading those lines! In this website you will be able 
 
 ## Summary
 
-[Tanki Fund Tracker](https://github.com/sabry134/TO-Utilities/#tanki-fund-tracker)
+[Tanki Fund Tracker](https://sabry134.github.io/TO-Utilities/#tanki-fund-tracker)
 
 [Tanki Star Calculator](https://sabry134.github.io/TO-Utilities/#tanki-star-calculator-algorithm)
 
