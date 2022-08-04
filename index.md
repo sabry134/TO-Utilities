@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome and thank you for reading those lines! In this website you will be able to find explanations about the Tanki Fund tracker along with an algorithm for a challenge star calculator.
+Welcome and thank you for reading those lines! In this website you will be able to find explanations about the Tanki Fund tracker along with an algorithm for a challenge star calculator. Enjoy!
 
 ## Summary
 
