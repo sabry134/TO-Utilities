@@ -1,3 +1,12 @@
+# Welcome
+
+Welcome and thank you for reading those lines! In this website you will be able to find explanations about the Tanki Fund tracker along with an algorithm for a challenge star calculator.
+
+## Summary
+
+[Tanki Fund Tracker](https://github.com/sabry134/TO-Utilities/blob/gh-pages/index.md#tanki-fund-tracker)
+[Tanki Star Calculator](https://github.com/sabry134/TO-Utilities/blob/gh-pages/index.md#tanki-star-calculator-algorithm)
+
 ## Tanki Fund Tracker
 
 A convenient tool made with Python using the Plotly and Streamlit libraries to track Tanki Funds over time.
